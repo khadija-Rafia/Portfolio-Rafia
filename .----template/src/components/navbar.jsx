@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
     <nav>
-      <h1>Hello this is khadija LL</h1>
+      <h1>Still working ):</h1>
     </nav>
   );
 }
